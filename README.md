@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jordy De Vriendt</h1>
 <h3 align="center">A student at thomas more</h3>
 
-- 🌱 I’m currently learning **php & typescript**
-
 
 <p align="left">
 </p>
